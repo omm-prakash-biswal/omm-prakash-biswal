@@ -36,24 +36,60 @@ Full Stack Developer | B.Tech CSE @ DRIEMS University | AI & Web Enthusiast
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=omm-prakash-biswal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omm-prakash-biswal&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omm-prakash-biswal&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing skills and projects.
+
+### ✅ Task Manager App
+Full Stack task management application using React and Node.js.
+
+### 🤖 AI Chat Application
+AI-powered chatbot project using modern APIs.
+
+### 🔌 Arduino Smart Projects
+Hardware and IoT projects built with Arduino.
+
+---
+
+## 🎯 Current Focus
 
 - Learning Spring Boot
-- Improving Data Structures & Algorithms
+- Improving DSA
 - Building Full Stack Projects
 - Exploring AI Development
+- Preparing for Internships
+
+---
+
+## 📈 2026 Goals
+
+- Complete 5+ Full Stack Projects
+- Master Spring Boot
+- Solve 300+ DSA Problems
+- Land a Software Development Internship
+- Contribute to Open Source
+
+---
+
+## 🏆 Achievements
+
+- B.Tech CSE Student
+- Full Stack Development Learner
+- AI & Web Development Enthusiast
+- Content Creator for Tech & Programming
 
 ---
 
