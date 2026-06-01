@@ -36,11 +36,10 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=omm-prakash-biswal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=omm-prakash-biswal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 ---
 
