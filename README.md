@@ -39,15 +39,11 @@ Full Stack Developer | B.Tech CSE @ DRIEMS University | AI & Web Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prakash-biswal&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omm-prakash-biswal&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omm-prakash-biswal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
