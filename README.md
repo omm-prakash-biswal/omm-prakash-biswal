@@ -36,17 +36,6 @@ I am a Computer Science Engineering student at DRIEMS University, passionate abo
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| Portfolio Website | Personal portfolio showcasing skills, projects, and experience |
-| Task Manager App | Full stack task management application using React and Node.js |
-| AI Chat Application | AI-powered chatbot built with modern APIs |
-| Arduino Smart Projects | Hardware and IoT projects using Arduino |
-
----
-
 ## Current Focus
 
 - Building full stack projects
