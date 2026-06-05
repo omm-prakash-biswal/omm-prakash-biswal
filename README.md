@@ -19,6 +19,8 @@
 ## About Me
 
 I am a Computer Science Engineering student at DRIEMS University, passionate about building practical web applications, exploring AI-powered tools, and learning modern software development.
+Based in Odisha, India
+🌐 Portfolio: [omm-prakash-biswal.github.io](https://omm-prakash-biswal.github.io)
 
 - Full Stack Development learner
 - Interested in AI, Web Development, and Hardware Projects
